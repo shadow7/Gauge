@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/adapter_item_temp_reading_container"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/selector_whitebox_darkclick"
+    android:minHeight="@dimen/common_box_small">
+
+    <TextView
+        android:id="@+id/adapter_item_temp_reading"
+        style="@style/TextAppearance.AppCompat.Subhead"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="@dimen/common_margin_huge"
+        android:layout_marginTop="@dimen/common_margin_xxtiny"
+        android:textColor="@color/common_text"/>
+
+    <TextView
+        android:id="@+id/adapter_item_temp_reading_name"
+        style="@style/TextAppearance.AppCompat.Subhead"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="@dimen/common_margin_huge"
+        android:layout_marginTop="@dimen/common_margin_small"
+        android:layout_toStartOf="@id/adapter_item_temp_reading"
+        android:textColor="@color/common_text"/>
+
+    <TextView
+        android:id="@+id/adapter_item_temp_reading_description"
+        style="@style/TextAppearance.AppCompat.Body1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@id/adapter_item_temp_reading_name"
+        android:layout_marginStart="@dimen/common_margin_huge"
+        android:layout_marginTop="@dimen/common_margin_xxtiny"
+        android:textColor="@color/common_text"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/common_margin_line"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@id/adapter_item_temp_reading_description"
+        android:layout_marginTop="@dimen/common_margin_small"
+        android:background="@color/common_divider"/>
+</RelativeLayout>
+    

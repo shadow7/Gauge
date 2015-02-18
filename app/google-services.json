@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_id": "gauge-6f600",
+    "project_number": "149058485051",
+    "name": "Gauge"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149058485051:android:43d1bd053b81baf0",
+        "client_id": "android:com.evandenerley.gauge",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.evandenerley.gauge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-61743303-4"
+          }
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

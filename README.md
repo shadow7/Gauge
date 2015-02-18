@@ -1,2 +1,2 @@
 # Gauge
-Custom Gauge View
+Custom Gauge View Showing off some material design tricks.

@@ -1,0 +1,17 @@
+<resources>
+    <style name="Theme.Gauge" parent="Theme.AppCompat"/>
+
+    <style name="Theme.Gauge.Base">
+        <item name="colorPrimary">@color/common_indigo</item>
+        <item name="colorPrimaryDark">@color/common_indigo_dark</item>
+        <item name="android:textColorPrimary">@color/common_text_inverse</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Widget.Gauge.App.Popup" parent="Theme.AppCompat.Light">
+        <item name="android:textColorPrimary">@color/common_text</item>
+        <item name="android:textColor">@color/common_text</item>
+    </style>
+
+</resources>

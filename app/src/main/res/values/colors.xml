@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Common brand colors-->
+    <color name="common_facebook">#3C5A99</color>
+    <color name="common_twitter">#55ACEE</color>
+    <color name="common_meerkat">#FFE200</color>
+    <color name="common_snapchat">#FFFA38</color>
+    <color name="common_spotify">#2FD565</color>
+    <color name="common_reddit">#CEE3F8</color>
+    <color name="common_linkedin">#0077B5</color>
+    <color name="common_fb_messenger">#0084FF</color>
+    <color name="common_hangouts">#0f9d58</color>
+    <color name="common_whatsapp">#4dc247</color>
+    <color name="common_yo">#9B59B6</color>
+    <color name="common_google_plus">#DF4B38</color>
+    <color name="common_address">#DA4A42</color>
+    <color name="common_tumblr">#314358</color>
+    <color name="common_ello">#000000</color>
+    <color name="common_instagram">#2A5B83</color>
+    <color name="common_venmo">#4997CF</color>
+    <color name="common_slack">#F0F0F0</color>
+    <color name="common_youtube">#e52d27</color>
+    <color name="common_github">#000000</color>
+    <color name="common_periscope">#3FA4C4</color>
+    <color name="common_medium">#000000</color>
+    <color name="common_soundcloud">#FC6520</color>
+    <color name="common_skype">#00AAF1</color>
+    <color name="common_playstation">#1C67AC</color>
+    <color name="common_nintendo">#F58A33</color>
+    <color name="common_steam">#000000</color>
+    <color name="common_twitch">#6441A5</color>
+    <color name="common_leagueoflegends">#25008A</color>
+    <color name="common_xbox">#107C10</color>
+
+    <!--PROXY COLORS-->
+    <!--87 percent alpha for text-->
+    <color name="common_proxy_zoidberg">#F5605A</color>
+    <color name="common_proxy_dark_selected">#424242</color>
+    <color name="common_proxy_dark_disabled">#757575</color>
+    <color name="common_proxy_light_primary">#424242</color>
+    <color name="common_proxy_purple">#8E61D6</color>
+    <color name="common_proxy_orange">#FFA724</color>
+    <color name="common_proxy_slide_one">@color/common_proxy_orange</color>
+    <color name="common_proxy_slide_two">#34AC71</color>
+    <color name="common_proxy_slide_three">#4285f4</color>
+
+    <!--material design guide lines-->
+    <!--http://www.google.com/design/spec/style/color.html#color-color-palette-->
+    <!--87 percent alpha for text-->
+    <color name="common_text">#DE000000</color>
+    <!--87 percent alpha for text inverse-->
+    <color name="common_text_inverse">#DEFFFFFF</color>
+    <!--54 percent alpha for secondary text-->
+    <color name="common_text_secondary">#7A000000</color>
+    <!--54 percent alpha for secondary inverse text-->
+    <color name="common_text_secondary_inverse">#7AFFFFFF</color>
+    <!--26 percent alpha for disabled text-->
+    <color name="common_text_disabled">#42000000</color>
+    <!--12 percent alpha for dividers-->
+    <color name="common_divider">#1F000000</color>
+
+    <!--Common primary color gray (100,500,700)-->
+    <color name="common_gray_light">#F5F5F5</color>
+    <color name="common_gray">#9E9E9E</color>
+    <color name="common_gray_dark">#616161</color>
+    <!--Common primary color indigo (500,700)-->
+    <color name="common_indigo">#3F51B5</color>
+    <color name="common_indigo_dark">#303F9F</color>
+    <!--Common primary color blue (100,500,700)-->
+    <color name="common_blue_light">#BBDEFB</color>
+    <color name="common_blue">#2196F3</color>
+    <color name="common_blue_dark">#1976D2</color>
+    <!--Common primary color light-blue (500)-->
+    <color name="common_light_blue">#03A9F4</color>
+    <!--Common primary color red (100,500)-->
+    <color name="common_red_light">#FFCDD2</color>
+    <color name="common_red">#F44336</color>
+    <color name="common_red_dark">#D32F2F</color>
+    <!--Common primary color green (500)-->
+    <color name="common_green">#4CAF50</color>
+    <!--Common primary color deep purple (500, 700)-->
+    <color name="common_deep_purple">#673AB7</color>
+    <color name="common_deep_purple_dark">#512DA8</color>
+
+
+</resources>

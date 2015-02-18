@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gauge</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="common_open">open</string>
+    <string name="common_closed">closed</string>
+</resources>

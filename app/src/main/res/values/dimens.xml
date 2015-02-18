@@ -1,0 +1,25 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="common_margin_line">1dp</dimen>
+    <dimen name="common_margin_bold_line">2dp</dimen>
+    <dimen name="common_margin_xxxtiny">4dp</dimen>
+    <dimen name="common_margin_xxtiny">8dp</dimen>
+    <dimen name="common_margin_xtiny">12dp</dimen>
+    <dimen name="common_margin_tiny">16dp</dimen>
+    <dimen name="common_margin_small">20dp</dimen>
+    <dimen name="common_margin_medium">24dp</dimen>
+    <dimen name="common_margin_large">28dp</dimen>
+    <dimen name="common_margin_huge">32dp</dimen>
+    <dimen name="common_margin_xhuge">36dp</dimen>
+    <dimen name="common_margin_xxhuge">40dp</dimen>
+    <dimen name="common_margin_xxxhuge">44dp</dimen>
+    <dimen name="common_box_tiny">48dp</dimen>
+    <dimen name="common_box_small">60dp</dimen>
+    <dimen name="common_box_medium">72dp</dimen>
+    <dimen name="common_box_large">84dp</dimen>
+    <dimen name="common_box_huge">96dp</dimen>
+    <dimen name="drawer_elevation">8dp</dimen>
+    
+    <dimen name="activity_main_drawer_content_width">380dp</dimen>
+    <dimen name="common_fab_radius">80dp</dimen>
+</resources>
